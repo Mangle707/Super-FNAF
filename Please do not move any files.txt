@@ -1,4 +1,0 @@
-Extract the game before playing!
-If you don't, you will:
--not hear ANY audio
--not have any of your progress saved
